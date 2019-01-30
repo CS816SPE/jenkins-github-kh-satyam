@@ -7,3 +7,8 @@
 
 # MT2018104
 ![alt text](https://raw.githubusercontent.com/CS816SPE/jenkins-github-kh-satyam/master/s1.png)
+
+![alt text](https://raw.githubusercontent.com/CS816SPE/jenkins-github-kh-satyam/master/s2.png)
+
+
+![alt text](https://raw.githubusercontent.com/CS816SPE/jenkins-github-kh-satyam/master/s3.png)
